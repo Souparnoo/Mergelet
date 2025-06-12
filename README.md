@@ -8,11 +8,15 @@ A simple and powerful PDF merger and booklet generator built with Python and Tki
 - Standalone EXE (no installation needed)
 
 ## 📷 Screenshots
-(Add images here – you can drag & drop in GitHub's editor)
+
+Here’s what the Mergelet interface looks like:
+
+![Mergelet Interface](https://github.com/Souparnoo/Mergelet/blob/main/Merglet%20Interface.png?raw=true)
+
 
 ## 🛠 Installation
 ### For Windows
-1. Download the `.exe` from [Releases](#) (we’ll add this later).
+1. Download the `.exe` from [Releases](https://github.com/Souparnoo/Mergelet/releases/tag/v1.0.0).
 2. Double-click to run!
 
 ### For Developers
