@@ -1,30 +1,23 @@
-# 📘 Mergelet
+# Mergelet 🌀
+A simple and powerful PDF merger and booklet generator built with Python and Tkinter.
 
-A powerful and easy-to-use Python app to **merge**, **reorder**, and **generate printable PDF booklets** — with a modern Tkinter + ttkbootstrap interface and support for EXE builds with embedded Poppler.
+## 💡 Features
+- Merge multiple PDFs
+- Reorder pages with drag & drop
+- Generate booklet-style PDFs
+- Standalone EXE (no installation needed)
 
----
+## 📷 Screenshots
+(Add images here – you can drag & drop in GitHub's editor)
 
-## ✨ Features
+## 🛠 Installation
+### For Windows
+1. Download the `.exe` from [Releases](#) (we’ll add this later).
+2. Double-click to run!
 
-- 🔗 Merge multiple PDFs into one
-- 🧾 Create **print-ready booklets** from standard PDFs
-- 🔃 Reorder PDF files with drag-up/down buttons
-- 📥 Select PDFs via file dialog, no typing needed
-- 📊 Live progress bar and status indicator
-- 💻 Modern, responsive GUI built with `ttkbootstrap`
-- 📦 Built EXE includes Poppler — no install needed!
-
-
-## 🛠️ Requirements
-
-- Python 3.8+
-- `pypdf`
-- `pdf2image`
-- `reportlab`
-- `ttkbootstrap`
-- Poppler (bundled in EXE or install separately if running from script)
-
-Install with:
-
+### For Developers
 ```bash
+git clone https://github.com/Souparnoo/Mergelet.git
+cd Mergelet
 pip install -r requirements.txt
+python main.py
