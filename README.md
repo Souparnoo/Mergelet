@@ -14,14 +14,6 @@ A powerful and easy-to-use Python app to **merge**, **reorder**, and **generate 
 - 💻 Modern, responsive GUI built with `ttkbootstrap`
 - 📦 Built EXE includes Poppler — no install needed!
 
----
-
-## 🖼️ GUI Preview
-
-![GUI Screenshot](<insert-screenshot-path-if-added>)  
-📎 Intuitive interface for both booklet creation and PDF merging
-
----
 
 ## 🛠️ Requirements
 
