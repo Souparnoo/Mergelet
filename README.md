@@ -26,5 +26,5 @@ cd Mergelet
 pip install -r requirements.txt
 python main.py
 ```
-📜 License
+## 📜 License
 MIT – free to use, modify, and distribute.
