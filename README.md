@@ -21,3 +21,6 @@ git clone https://github.com/Souparnoo/Mergelet.git
 cd Mergelet
 pip install -r requirements.txt
 python main.py
+```
+📜 License
+MIT – free to use, modify, and distribute.
